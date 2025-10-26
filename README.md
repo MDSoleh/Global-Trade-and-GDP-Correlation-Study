@@ -80,12 +80,18 @@ Designed a 4-page interactive dashboard:
 
 ## Basic Level Findings
 	
-  o Strong positive correlation between exports (% GDP) and log(GDP) (≈ 0.6–0.8 range).
-	o Weak negative or neutral correlation between imports and GDP growth (depends on trade balance).
-	o Net Trade (% GDP) tends to positively associate with GDP growth for surplus economies.
+   o Strong positive correlation between exports (% GDP) and log(GDP) (≈ 0.6–0.8 range).
+   
+   o Weak negative or neutral correlation between imports and GDP growth (depends on trade balance).
+   
+   o Net Trade (% GDP) tends to positively associate with GDP growth for surplus economies.
+
+   
 ## Intermediate Level Findings 
 
   o In regression, export intensity significantly predicts GDP, even after controlling for population & imports.
-	o The R² value (around 0.65–0.80) indicates strong model fit for cross-country data.
+  
+  o The R² value (around 0.65–0.80) indicates strong model fit for cross-country data.
+	
   o Panel-style fixed effects confirm exports remain significant after accounting for country-specific and year-specific factors.
 
